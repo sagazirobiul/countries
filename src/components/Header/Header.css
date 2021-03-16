@@ -1,0 +1,30 @@
+.nav-bar {
+    background-color: #20232A;
+    padding: 0!important;
+}
+
+.navBarMenu a {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 1.2rem 1.8rem;
+    font-size: 1.6rem;
+    border-bottom: 3px solid transparent;
+}
+
+.navBarMenu a:hover {
+    text-decoration: none;
+    color: #39c0fb;
+}
+
+.brandName a{
+    color: #39c0fb;
+    padding: 1.2rem 1.8rem;
+    font-size: 1.6rem;
+    border-bottom: 3px solid transparent;
+}
+
+.brandName a:hover {
+    padding: 1.2rem 1.8rem;
+    text-decoration: none;
+    color: #39c0fb;
+}

@@ -1,0 +1,70 @@
+.header a{
+  text-decoration: none;
+  color: white;
+  padding: 10px 20px;
+}
+.card-img img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.detailsCard {
+  color: black;
+  font-weight: bold;
+}
+
+.detailsCard p {
+  font-size: 1.1rem;
+}
+
+.detailsCard img {
+  height: 20px;
+  object-fit: cover;
+}
+
+.allRegion h1 {
+  width: 95%;
+  background: #39c0fb;
+  color: black;
+  padding: 2rem 0;
+  text-transform: capitalize;
+  border-radius: 0.5rem;
+  margin: 1rem auto;
+  cursor: pointer;
+}
+.allRegion h1:hover {
+  transition: 0.3s;
+  color: #F0F2F5;
+}
+.allRegion a {
+  text-decoration: none;
+}
+.allRegion a:hover {
+  text-decoration: none;
+  color: black;
+}
+.blocArea a {
+  text-decoration: none;
+  color: black;
+}
+.blocArea a:hover {
+  text-decoration: none;
+  color: black;
+}
+.regionalBloc {
+  color: black;
+  background-image: linear-gradient(#27b1ec, #39C0FB);
+  margin: 1rem auto;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+.regionalBloc h2 {
+  margin-left: 1rem;
+}
+.regionalBloc img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}

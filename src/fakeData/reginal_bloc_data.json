@@ -1,0 +1,66 @@
+[{
+    "id": 1,
+    "name": "European Union",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg",
+    "short_name": "EU"
+  }, {
+    "id": 2,
+    "name": "European Free Trade Association",
+    "img": "https://www.eurodesk.lu/wp-content/uploads/2018/06/efta_logo2.png",
+    "short_name": "EFTA"
+  }, {
+    "id": 3,
+    "name": "Caribbean Community",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_CARICOM.svg/1200px-Flag_of_CARICOM.svg.png",
+    "short_name": "CARICOM"
+  }, {
+    "id": 4,
+    "name": "Pacific Alliance",
+    "img": "https://menafn.com/updates/pr/2019-05/13/TNA_d6e33da5-dimage_story.jpg",
+    "short_name": "PA"
+  }, {
+    "id": 5,
+    "name": "African Union",
+    "img": "https://africabusinessnetworking.com/wp-content/uploads/2020/10/African-Union.png",
+    "short_name": "AU"
+  }, {
+    "id": 6,
+    "name": "Union of South American Nations",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_UNASUR.svg/1200px-Flag_of_UNASUR.svg.png",
+    "short_name": "USAN"
+  }, {
+    "id": 7,
+    "name": "Eurasian Economic Union",
+    "img": "https://x7cpr.com/wp-content/uploads/2017/07/8744.jpg",
+    "short_name": "EEU"
+  }, {
+    "id": 8,
+    "name": "Arab League",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_the_Arab_League.svg/1200px-Flag_of_the_Arab_League.svg.png",
+    "short_name": "AL"
+  }, {
+    "id": 9,
+    "name": "Association of Southeast Asian Nations",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Flag_of_ASEAN.svg/1200px-Flag_of_ASEAN.svg.png",
+    "short_name": "ASEAN"
+  }, {
+    "id": 10,
+    "name": "Central American Integration System",
+    "img": "https://img.freepik.com/free-photo/central-american-integration-system-flag_7594-174.jpg?size=626&ext=jpg",
+    "short_name": "CAIS"
+  }, {
+    "id": 11,
+    "name": "Central European Free Trade Agreement",
+    "img": "https://st2.depositphotos.com/1000592/12249/i/600/depositphotos_122496734-stock-photo-flag-of-central-european-free.jpg",
+    "short_name": "CEFTA"
+  }, {
+    "id": 12,
+    "name": "North American Free Trade Agreement",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NAFTA_logo.svg/1200px-NAFTA_logo.svg.png",
+    "short_name": "NAFTA"
+  }, {
+    "id": 13,
+    "name": "South Asian Association for Regional Cooperation",
+    "img": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2016/09/30/534033-saarc-summit.jpg",
+    "short_name": "SAARC"
+  }]
